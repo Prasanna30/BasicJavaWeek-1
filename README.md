@@ -71,4 +71,17 @@ INPUT :OneSpace TwoSpaces  ThreeSpaces   FourSpaces    Tab        End
 14. Write a JAVA program that will generate/output the following numbers.
 1, 2, 4, 7, 11, 16, 32, 39, 47, 56, 66
 
+15.Write a Java program to detect key presses.If the user pressed number keys( from 0 to 9), the program will tell the number that is pressed,  otherwise, program will show "Not allowed".
+
+16.Write a Java program that allows the user to choose the correct answer of a question.
+See the example below:
+`````
+What is the correct way to declare a variable to store an integer value in
+ Java?
+a. int 1x=10;
+b. int x=10;
+c. float x=10.0f;
+d. string x="10";
+Enter your choice: c
+````
 
