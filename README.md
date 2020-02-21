@@ -18,7 +18,7 @@ Input : 1F output: “In fairfax cinemax currently running movie : thor”. Make
 8.Write Java Program using for-loop statement
 Excepted Output :How Many Rows You Want to Print ?
               8
-Here Is Your pattern
+```Here Is Your pattern
          1
         1 2
        1 2 3
@@ -27,10 +27,10 @@ Here Is Your pattern
     1 2 3 4 5 6
    1 2 3 4 5 6 7
   1 2 3 4 5 6 7 8
-  
+  ```
 9.Write Java Program using for-loop statement
 Excepted Output :How Many Rows You Want to Print ?
-                             9
+```                             9
 Here Is Your pattern
          1
         2 2
@@ -41,7 +41,7 @@ Here Is Your pattern
    7 7 7 7 7 7 7
   8 8 8 8 8 8 8 8
  9 9 9 9 9 9 9 9 9
-
+```
 10. Write a program to input indefinite numbers and then calculate the sum of only the positive numbers. The program terminates when negative numbers is input
 
 11. Write a program to print year from 1 to 4000 except leap years  using Continue statement.
