@@ -47,8 +47,8 @@ Here Is Your pattern
 11. Write a program to print year from 1 to 4000 except leap years  using Continue statement.
 
 12.By using do while loop, write Java program to prompt the user to choose the correct answer from a list of answer choices of a question.
-''''
-What is the command keyword to exit a loop in Java?
+
+````What is the command keyword to exit a loop in Java?
 a.quit
 b.continue
 c.break
@@ -62,7 +62,7 @@ Again? press y to continue:y
 Enter your choice:a
 Incorrect!
 Again? press y to continue:d
-'''''
+`````
 13.Write a program to remove White Spaces from string in Java?
 ”Enter input string to be cleaned from white spaces...!”
 INPUT :OneSpace TwoSpaces  ThreeSpaces   FourSpaces    Tab        End
