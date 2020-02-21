@@ -48,7 +48,8 @@ Here Is Your pattern
 
 12.By using do while loop, write Java program to prompt the user to choose the correct answer from a list of answer choices of a question.
 
-````What is the command keyword to exit a loop in Java?
+````
+What is the command keyword to exit a loop in Java?
 a.quit
 b.continue
 c.break
