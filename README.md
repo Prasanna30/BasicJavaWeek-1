@@ -69,7 +69,7 @@ Again? press y to continue:d
 INPUT :OneSpace TwoSpaces  ThreeSpaces   FourSpaces    Tab        End
 
 14. Write a JAVA program that will generate/output the following numbers.
-  1, 2, 4, 7, 11, 16, 32, 39, 47, 56, 66
+  1, 2, 4, 7, 11, 16, 22,29 37 46 56 67 79 92 
 
 15.Write a Java program to detect key presses.If the user pressed number keys( from 0 to 9), the program will tell the number that is pressed,  otherwise, program will show "Not allowed".
 
